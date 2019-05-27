@@ -1,0 +1,48 @@
+#name: "zoe"
+#age: "18"
+
+
+#name: "zoe"
+#Name: "bob"
+#
+##出现相同名字的key值,读取后一个
+##name: "jack"
+#age: 18
+#
+##返回列表类型
+#data:
+#  - "lili"
+#  - "18"
+#
+##同上
+#data1: [1,2,3]
+#
+##返回列表包字典类型
+#data2:
+#  - name: "zoe"
+#  - age: "18"
+#  - name: "jack"
+#
+#bool1: true
+#bool2: false
+#bool3: True
+#bool4: False
+#
+#int_data: 12
+#float_data: 12.00001
+#
+#data1: ~
+#data2: null
+#data3: NULL
+#data4:
+#data5:
+
+data1: 2019-05-24 11:54:30
+data2: 2019-5-24 11:54:30
+
+#如果单写年月日,位数是一位时,返回字符串类型,而不是datatime类型
+data3: 2019-5-5
+
+#返回int类型
+data4: 11:54:30
+

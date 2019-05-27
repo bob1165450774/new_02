@@ -1,0 +1,97 @@
+{
+  "uid" : "fd465541f221afb1",
+  "name" : "test_text.TestText.test_add_text_name",
+  "fullName" : "scripts.test_text.TestText.test_add_text_name",
+  "historyId" : "c756ea9d4eb416cd8cd88d383f19958d",
+  "time" : {
+    "start" : 1558790408100,
+    "stop" : 1558790426505,
+    "duration" : 18405
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试步骤1",
+      "time" : {
+        "start" : 1558790415313,
+        "stop" : 1558790426504,
+        "duration" : 11191
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "db8b371cf7e61f7",
+        "name" : "新增短信",
+        "source" : "db8b371cf7e61f7.txt",
+        "type" : "text/plain",
+        "size" : 18
+      }, {
+        "uid" : "2f158f2c99beb8fe",
+        "name" : "何多苓",
+        "source" : "2f158f2c99beb8fe.png",
+        "type" : "image/png",
+        "size" : 21333
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-31L2SNIL"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "9344-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_text.TestText.test_add_text_name"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd465541f221afb1.json",
+  "parameterValues" : [ ]
+}

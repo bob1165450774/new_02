@@ -1,0 +1,57 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_text.TestText.test_add_text_name",
+      "uid" : "fd465541f221afb1",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558790408100,
+        "stop" : 1558790426505,
+        "duration" : 18405
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_text.TestText.test_input_text[123-123]",
+      "uid" : "7e67a49fc1502200",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558790426553,
+        "stop" : 1558790434519,
+        "duration" : 7966
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_text.TestText.test_input_text[hello-hello]",
+      "uid" : "87b133344ba8a7da",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558790434528,
+        "stop" : 1558790444981,
+        "duration" : 10453
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_text.TestText.test_input_text[#!!-#!!]",
+      "uid" : "30cf68230f23d8b",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558790444984,
+        "stop" : 1558790455579,
+        "duration" : 10595
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

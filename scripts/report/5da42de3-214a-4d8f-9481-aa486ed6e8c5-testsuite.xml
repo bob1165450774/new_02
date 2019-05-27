@@ -1,0 +1,91 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1558790408100" stop="1558790455579">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1558790408100" status="passed" stop="1558790426505">
+      <name>test_text.TestText.test_add_text_name</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="9344-MainThread"/>
+        <label name="host" value="LAPTOP-31L2SNIL"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1558790415313" status="passed" stop="1558790426504">
+          <name>测试步骤1</name>
+          <title>测试步骤1</title>
+          <attachments>
+            <attachment source="66dfccaf-d7f4-4e65-8f07-4a417a981166-attachment.txt" title="新增短信" type="text/plain"/>
+            <attachment source="26b823ac-4bab-4901-a0f2-22b019fc7c4c-attachment.png" title="何多苓" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1558790426553" status="passed" stop="1558790434519">
+      <name>test_text.TestText.test_input_text[123-123]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9344-MainThread"/>
+        <label name="host" value="LAPTOP-31L2SNIL"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1558790426556" status="passed" stop="1558790434519">
+          <name>测试步骤2</name>
+          <title>测试步骤2</title>
+          <attachments>
+            <attachment source="22407e00-5d3e-40ba-a645-fb645c0f9f02-attachment.txt" title="发送短信" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1558790434528" status="passed" stop="1558790444981">
+      <name>test_text.TestText.test_input_text[hello-hello]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9344-MainThread"/>
+        <label name="host" value="LAPTOP-31L2SNIL"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1558790434530" status="passed" stop="1558790444980">
+          <name>测试步骤2</name>
+          <title>测试步骤2</title>
+          <attachments>
+            <attachment source="aaf64646-aa95-42b5-97a5-8a8c1cf93761-attachment.txt" title="发送短信" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1558790444984" status="passed" stop="1558790455579">
+      <name>test_text.TestText.test_input_text[#!!-#!!]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9344-MainThread"/>
+        <label name="host" value="LAPTOP-31L2SNIL"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1558790444985" status="passed" stop="1558790455578">
+          <name>测试步骤2</name>
+          <title>测试步骤2</title>
+          <attachments>
+            <attachment source="9f6fcb6e-74ef-41bf-9a18-58fe13f818a9-attachment.txt" title="发送短信" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

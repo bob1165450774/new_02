@@ -1,0 +1,30 @@
+data:
+  address: 航都路18号
+  age: 19
+  data001:
+    name: bob
+  data002:
+    age: 19
+  hobby: sing
+  name: bob
+info:
+  address: 航都路18号
+  data001:
+    name: bob
+  data002:
+    age: 19
+data:
+  address: 航都路18号
+  age: 19
+  data001:
+    name: bob
+  data002:
+    age: 19
+  hobby: sing
+  name: bob
+info:
+  address: 航都路18号
+  data001:
+    name: bob
+  data002:
+    age: 19

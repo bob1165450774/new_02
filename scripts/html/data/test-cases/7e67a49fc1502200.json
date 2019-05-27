@@ -1,0 +1,91 @@
+{
+  "uid" : "7e67a49fc1502200",
+  "name" : "test_text.TestText.test_input_text[123-123]",
+  "fullName" : "scripts.test_text.TestText.test_input_text[123-123]",
+  "historyId" : "b2270c2773a0c4eca1b36fbaa6bce9cc",
+  "time" : {
+    "start" : 1558790426553,
+    "stop" : 1558790434519,
+    "duration" : 7966
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试步骤2",
+      "time" : {
+        "start" : 1558790426556,
+        "stop" : 1558790434519,
+        "duration" : 7963
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8376b2333bdfaec2",
+        "name" : "发送短信",
+        "source" : "8376b2333bdfaec2.txt",
+        "type" : "text/plain",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-31L2SNIL"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "9344-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_text.TestText.test_input_text[123-123]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e67a49fc1502200.json",
+  "parameterValues" : [ ]
+}

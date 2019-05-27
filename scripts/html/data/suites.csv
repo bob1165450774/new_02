@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_text.TestText.test_add_text_name","18405",""
+"passed","scripts.test_text.TestText.test_input_text[hello-hello]","10453",""
+"passed","scripts.test_text.TestText.test_input_text[#!!-#!!]","10595",""
+"passed","scripts.test_text.TestText.test_input_text[123-123]","7966",""

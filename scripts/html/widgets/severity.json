@@ -1,0 +1,41 @@
+[ {
+  "uid" : "30cf68230f23d8b",
+  "name" : "test_text.TestText.test_input_text[#!!-#!!]",
+  "time" : {
+    "start" : 1558790444984,
+    "stop" : 1558790455579,
+    "duration" : 10595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e67a49fc1502200",
+  "name" : "test_text.TestText.test_input_text[123-123]",
+  "time" : {
+    "start" : 1558790426553,
+    "stop" : 1558790434519,
+    "duration" : 7966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd465541f221afb1",
+  "name" : "test_text.TestText.test_add_text_name",
+  "time" : {
+    "start" : 1558790408100,
+    "stop" : 1558790426505,
+    "duration" : 18405
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "87b133344ba8a7da",
+  "name" : "test_text.TestText.test_input_text[hello-hello]",
+  "time" : {
+    "start" : 1558790434528,
+    "stop" : 1558790444981,
+    "duration" : 10453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

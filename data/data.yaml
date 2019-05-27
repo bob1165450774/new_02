@@ -1,0 +1,15 @@
+info: &info_data
+
+  data001: &001
+    name: "bob"
+
+  data002: &002
+    age: 19
+  address: "航都路18号"
+
+
+data:
+  <<: *info_data
+  <<: *001
+  <<: *002
+  hobby: "sing"
